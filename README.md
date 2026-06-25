@@ -130,9 +130,9 @@ Generated meaningful business insights using SQL queries, including:
 # 📁 Repository Structure
 
 ```
-├── zepto_inventory.csv
+├── zepto.csv
 │
-├── zepto_inventory_analysis.sql
+├── Zepto_Project_Data_Analysis.sql
 │
 └── README.md
 ```
