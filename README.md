@@ -132,7 +132,7 @@ Generated meaningful business insights using SQL queries, including:
 ```
 ├── zepto.csv
 │
-├── Zepto_Project_Data_Analysis.sql
+├── Zepto_SQL_Data_Analysis.sql
 │
 └── README.md
 ```
